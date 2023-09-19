@@ -19,9 +19,28 @@
     margin: 0;
     padding: 0;
 }
+.emilly{
+    padding: 30px 0;
+    font-family: 'Miltonian Tattoo', cursive; 
+    font-size: 60px
+}
+.maria{
+    padding: 30px 0;
+    width: 55%;
+    font-family: 'Slackside One', cursive;
+    font-size: 30px
+}
+.natalia{
+    padding: 30px 0;
+    width: 55%;
+    font-family: 'Sura', serif;
+   font-size: 30px
+}
 .escola-imagem{
     width: 25%;
+    
 }
+
 .escola{
   
    
@@ -55,13 +74,13 @@
     padding: 24px 0;
 }
 .escola-div-conteudo{
-    width: 60%;
+    width: 50%;
 }
 .escola-titulo{
     padding: 24px 0;
 }
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Sura', serif;
 }
 .titulo{
     padding: 24px 0;
@@ -69,10 +88,6 @@ body {
 .estudante-div{
     text-align: center;
     padding: 16px 0;
-}
-.estudante-todos{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
 }
 .rodape{
     background-color: #F3A9C0;
